@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![ilk repo projesi](https://www.hizliresim.com/gjhznq5)
+![ilk repo projesi](https://i.hizliresim.com/gjhznq5.jpg)
